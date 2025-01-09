@@ -8,6 +8,8 @@ public class Main {
         double lato2 = myScanner.nextDouble();
         Rectangle pitagoraChi = new Rectangle(lato1,lato2);
         pitagoraChi.stampaRettangolo();
+
         myScanner.close();
+
     }
 }
